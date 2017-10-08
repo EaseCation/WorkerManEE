@@ -5,14 +5,14 @@
  * WorkerManEE
  *
  * Licensed under The MIT License
- * For full copyright and license information, please see the MIT-LICENSE.txt
+ * For full copyright and license information, please see the LICENSE
  * Redistributions of files must retain the above copyright notice.
  *
  */
 
 namespace EaseCation\WorkerManEE;
 
-use FunDNS\Page\AbstractPage;
+use EaseCation\WorkerManEE\Page\AbstractPage;
 use Workerman\Protocols\Http;
 use Workerman\Worker;
 
