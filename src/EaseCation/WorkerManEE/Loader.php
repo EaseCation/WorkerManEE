@@ -1,10 +1,15 @@
 <?php
+
 /**
- * Created by IntelliJ IDEA.
- * User: PeratX
- * Date: 2017/10/8
- * Time: 14:03
+ *
+ * WorkerManEE
+ *
+ * Licensed under The MIT License
+ * For full copyright and license information, please see the MIT-LICENSE.txt
+ * Redistributions of files must retain the above copyright notice.
+ *
  */
+
 
 namespace EaseCation\WorkerManEE;
 

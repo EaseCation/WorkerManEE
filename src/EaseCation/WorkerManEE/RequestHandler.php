@@ -1,9 +1,8 @@
 <?php
 
 /**
- * WorkerManEE
  *
- * Copyright (C) 2017 PeratX <peratx@itxtech.org> All rights reserved.
+ * WorkerManEE
  *
  * Licensed under The MIT License
  * For full copyright and license information, please see the MIT-LICENSE.txt
